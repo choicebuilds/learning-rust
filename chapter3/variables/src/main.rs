@@ -4,6 +4,7 @@ fn main() {
     x = 6;
     println!("The value of x is {x}");
 
+    
     let x = 6;
     println!("The value of x is {x}");
     /*
@@ -11,6 +12,7 @@ fn main() {
     println!("The value of x is {x}");
     // Doesn't compile since x is not mutable anymore
     */
+
 
     let x = 5;
 
